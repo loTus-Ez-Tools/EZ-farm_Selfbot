@@ -4,4 +4,4 @@ Ez Farm v1.1
 
 This is a selfbot that I quickly devised, it is useful for auto farming discord game bots
 
-https://freeimage.host/i/2Wzb0N
+
