@@ -1,9 +1,33 @@
-# EZ-farm_Selfbot
-
-Ez Farm v1.1
-
-This is a python selfbot that I developed quickly, it is useful for auto farming discord game bots
-
-<a href="https://freeimage.host/i/2WIHen"><img src="https://iili.io/2WIHen.md.png" alt="2WIHen.md.png" border="0"></a>
-
-<a href="https://freeimage.host/i/2WIFs4"><img src="https://iili.io/2WIFs4.md.png" alt="2WIFs4.md.png" border="0"></a>
+{
+  "name": "ez-farm",
+  "version": "1.0.1",
+  "description": "A Python discord selfbot usful for boosting your lvl with bots like Mee6 or Koya",
+  "main": "EzFarm.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loTus04/EZ-farm_Selfbot.git"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "python",
+    "mee6",
+    "koya",
+    "IdleMiner",
+    "UnbelievaBoat",
+    "EnderBot",
+    "Disboard",
+    "farm",
+    "lvl",
+    "up"
+  ],
+  "author": "loTus01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loTus04/EZ-farm_Selfbot/issues"
+  },
+  "homepage": "https://github.com/loTus04/EZ-farm_Selfbot#readme"
+}
