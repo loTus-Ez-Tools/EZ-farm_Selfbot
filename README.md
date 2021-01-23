@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-
+How to get your discord token: https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
 ```sh
 python3 EzFarm.py
 ```
