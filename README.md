@@ -28,7 +28,7 @@
 ## Install
 
 ```sh
-pip3 install discord.py
+pip3 install -r requirements.txt
 ```
 
 ## Usage
