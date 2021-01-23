@@ -18,7 +18,7 @@
 
 ### 🏠 [Homepage](https://github.com/loTus04/EZ-farm_Selfbot/blob/main/README.md)
 
-### ✨ [Demo](https://github.com/loTus04/EZ-farm_Selfbot/blob/main/img/Ezfarm1PNG.PNG)
+### ✨ [Demo](https://github.com/loTus04/EZ-farm_Selfbot/blob/main/img/Ezfarm1PNG.PNG?raw=true)
 
 ## Prerequisites
 
