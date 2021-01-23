@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to EzFarm 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -19,11 +17,12 @@
 ### 🏠 [Homepage](https://github.com/loTus04/EZ-farm_Selfbot/blob/main/README.md)
 
 ### ✨ [Demo](https://github.com/loTus04/EZ-farm_Selfbot/blob/main/img/Ezfarm1PNG.PNG?raw=true)
+<img src="https://github.com/loTus04/EZ-farm_Selfbot/blob/main/img/Ezfarm1PNG.PNG?raw=true" />
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- pip3
+- python3
 
 ## Install
 
@@ -35,12 +34,6 @@ pip3 install discord.py
 
 ```sh
 python3 EzFarm.py
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
@@ -63,4 +56,3 @@ Copyright © 2021 [loTus01](https://github.com/loTus01).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
