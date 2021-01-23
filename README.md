@@ -41,7 +41,7 @@ python3 EzFarm.py
 
 👤 **loTus01**
 
-* GitHub: [@loTus01](https://github.com/loTus01)
+* GitHub: [@loTus01](https://github.com/loTus04)
 
 ## 🤝 Contributing
 
