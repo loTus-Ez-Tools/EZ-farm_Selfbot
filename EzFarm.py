@@ -5,6 +5,12 @@ from discord.ext import commands
 import asyncio 
 from datetime import datetime
 import random
+import os
+
+try:
+    os.system("cls")
+except:
+    pass
 
 print()
 print("\033[35m███████\033[0m╗\033[35m███████\033[0m╗    \033[35m███████\033[0m╗ \033[35m█████\033[0m╗ \033[35m██████\033[0m╗ \033[35m███\033[0m╗   \033[35m███\033[0m╗")
